@@ -1,2 +1,2 @@
 Scrum Master: Joel Goodin
-GIt Master: Courtney Hall
+Git Master: Courtney Hall
